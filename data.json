@@ -144,6 +144,161 @@
     "state": [
 
       {
+        "id": "444",
+        "name": "Kerala",
+        "capital": "Edit,",
+        "about": "Kerala - home to the languid backwaters, long coastlines, sprawling tea gardens, and colourful dance forms, is also famously known as 'God?s Own Country'. Located on the Malabar coast of Southern India, it is a tiny sliver of paradise that is also one of the best tropical tourist destinations one can look for. Whether you want to bask in the sun and sand of the palm tree-lined Kovalam beach or want to take a hike to Munnar hill station, or even if you're going to walk down the bustling streets of Kochi, Kerala has everything on offer to take your pick from!The land of literate and simple citizens, Kerala amuses you with its spectacular dance forms, music and handicrafts. Considered to be one among the ten paradises of the world, Kerala is known for long palm tree beaches, beautiful rivers, pious inland water bodies and a calm, green atmosphere.",
+        "climate": "The coastal state of Keralalying on the Southwestern tip of India has commonly been called the tropical paradise of India. Bounded by Arabian Sea at one side and the Western Ghats on the other, the beautiful land with stunning beauty has an equable and tropical climate offering a pleasing atmosphere throughout the entire year. This coastal state has hot and humid climate during April-May and pleasant, cold climate in December-January. Summer extends from the month of April to June when the temperature reaches to a maximum of 33 degrees centigrade. Summer is followed by South West Monsoon that starts pouring in the month of June and continues till September. With the arrival of winter there is certain drop in the temperature and you can feel a slight chill due to the cold wind. Winter in Kerala lasts from from November to January or February.",
+        "history": "According to the Tamil classic Purananuru, the Chera king Senkuttuvan conquered the lands between Kanyakumari and the Himalayas.[25] Lacking worthy enemies, he besieged the sea by throwing his spear into it.[25][26] According to the 17th century Malayalam work Keralolpathi, the lands of Kerala were recovered from the sea by the axe-wielding warrior sage Parasurama, the sixth avatar of Vishnu (hence, Kerala is also called Parasurama Kshetram 'The Land of Parasurama'[27]). Parasurama threw his axe across the sea, and the water receded as far as it reached. According to legend, this new area of land extended from Gokarna to Kanyakumari.[28] The land which rose from sea was filled with salt and unsuitable for habitation; so Parasurama invoked the Snake King Vasuki, who spat holy poison and converted the soil into fertile lush green land. Out of respect, Vasuki and all snakes were appointed as protectors and guardians of the land.",
+        "time": "The Best time to visit Kerala is Winter Season between September and March when the Kerala has comfortable climate and pleasant weather with less humidity in all the tourist places. People who are looking for ayurvedic treatments prefer Monsoon season from June to August",
+        "food": "Kerala cuisine is a combination of vegetables, meats and seafood flavoured with a variety of spices. One can notice the dominance of rice, coconut, seafood and variety of non-vegetarian dishes and the lavish use of spices like Pepper, Cardamom, Cloves, Ginger and chillies that add to the taste and flavour of Kerala's traditional food.With the Romans, Greeks, Dutch, Portuguese and many more invaders making their way to the ports of Kerela, it's no surprise that Kerala's food is so diverse and distinct from the rest of the country. There are differences seen in the taste and styles of north and south Kerala- the menu ranges from lip-smacking Mappila biryani, Sadya and brilliant non-vegetarian dishes, you are sure to find something new every day! Kerala is a paradise for seafood lovers; from an array of prawns, lobsters, rockfish and squid among the others, the place won't disappoint you. The Sadya is a substantial feast served on a banana leaf and consists of 24-28 dishes in a single meal. Onam Sadyas are something you should try if you're in Kerala. Other favourite dishes include Avial, Kozhikodan Halwa, Appam-stew combo, Kappa, Puttu-Meen curry and Paal Payasam. ",
+        "img": [
+          "https://dmgupcwbwy0wl.cloudfront.net/system/images/000/246/174/b6e6fbfe0a70425bfa209af67b1a1ac6/x1000gt/shutterstock_1154918653.jpg?1552906145",
+          "https://invest-india-revamp-static-files.s3.ap-south-1.amazonaws.com/s3fs-public/2018-07/Kerala_2.png",
+          "https://www.bookitforgetit.com/wp-content/uploads/2016/10/Kerala-is-a-state-in-the-southwest-region-of-India.jpg",
+          "https://img.veenaworld.com/group-tours/india/kerala/klhl-i/klhl-i-bnn-1.jpg",
+          "https://i2.wp.com/www.abtravelworld.com/wp-content/uploads/2019/04/Kerala-beach.jpg?fit=980%2C500&ssl=1",
+          "https://www.myjewishlearning.com/wp-content/uploads/2010/07/Kerala_Backwaters.jpeg"
+        ],
+        "products": [
+          {
+            "name": "Coffee",
+            "description": "It is no wonder that 10 million tonnes of coffee are consumed every year, such as the magic of this humble cup of beverage. If you too belong to the coffee-loving brigade, your Kerala shopping expedition can never really begin for you without getting your hands on an aromatic bag of locally grown Kaapi.  The delicious Malabar Monsoon Coffee available here is also a fantastic option to choose. Rich in flavour, aroma and colour as well, this coffee beans powder not only makes for a fantastic item to buy in Kerala not only for yourself but also as a souvenir or gift for your friends and family",
+            "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/South-Indian-Coffee-e1524192277128.jpg",
+            "category": "Grocery"
+          },
+          {
+            "name": "Aroma Oila",
+            "description": "Kerala is famous for its Ayurvedic treatments for various purposes from treating certain ailments to beauty procedures too. There are many places to visit in Kerala that are world famous for their Ayurvedic treatments, yoga and more. The massages are carried out through different therapies using various aroma oils, based on the concept of aromatherapy. Even most of the resorts and hotels in the state have spa centres offering rejuvenating massages. Therefore buying aroma oils has inadvertently become an important part of your Kerala Shopping experience. You will find top quality aroma oils here of different varieties, used for different purposes.",
+            "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/oil-e1524192373817.jpg",
+            "category": "Grocery"
+          },
+          {
+            "name": "Spices",
+            "description": "The warm and humid climate of Kerala is perfect for the cultivation of a variety of rich spices like cardamom, star anise, black pepper, turmeric, cinnamon, clove etc. This makes it perfect for you to go shopping in Kerala for these lovely and aromatic spices as well. What makes it even cooler, is the fact that since the usually expensive spices are grown here, you can get them at really competitive prices.",
+            "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Spices-e1524192420166.jpg",
+            "category": "Grocery"
+          },
+          {
+            "name": "Tea",
+            "description": "Just like coffee, tea also finds its fans almost everywhere in the world and Kerala has some superb offerings on that front too. The Nilgiri tea cultivated here is made from superb tea leaves which have a beautiful flavour. The delicate and smooth taste and colour of this tea are simply amazing. This makes this product an equally worthy item to buy when Shopping in Kerala. It is both a practical thing to invest in and also makes for a wonderful gift.",
+            "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Tea-e1524192323272.jpg",
+            "category": "Grocery"
+          },
+          {
+            "name": "Cashew Nuts",
+            "description": "Just like spices, tea and coffee, cashew nuts too find their origination in the fertile land of God’s Own Country. Hence, if you want to stock up on your supply of nuts, it is a great way to do so while you are out for your Kerala shopping trip. You can get them at a fairly lower price here, without compromising on the quality.",
+            "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/cashewsraw-e1524192462208.jpg",
+            "category": "Grocery"
+          },
+          {
+            "name": "Banana Chips",
+            "description": "Banana chips are another famous and must-buy items of the state, making them an unavoidable part of your Kerala Shopping spree. These yummy and light snacks made out of raw bananas is profusely available all over Kerala. Just make sure you taste them beforehand and bargain if purchasing in a bulk.",
+            "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Banana-Chips-2-e1524192613182.jpg",
+            "category": "Grocery"
+          },
+          {
+            "name": "Wooden Caskets And Boat Models",
+            "description": "Known locally as Nettur Caskets and Chandan Vallam, these ornately crafted wooden chests can only be found shopping in Kerala. You can use these dainty boxes to store knick-knacks such as rings or earrings or simply place them in your drawing room to receive some admirations from guests. Same goes for boats or Urus, which are the lovely little models of the popular snake boats of Kerala, used in the boat racings.",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81MaDwVCwnL._SL1500_.jpg",
+            "category": "Home-Decor"
+          },
+          {
+            "name": "Kathakali Masks",
+            "description": "Often represented through the expressive and vibrant masks and dance of Kathakali, the classical dance form is really the face of the state. This certainly calls for shopping in Kerala for this beautiful masks which you can hang in your home or stick one as a fridge magnet.",
+            "image": "https://lh3.googleusercontent.com/cLxTE0sa4lLI0saF3tOSVUM02sGbBfUhM00LWcoY0xz3RLxO3QcMvHuJpsHtm2F326iU4Kg_xQcu9_iI78q08Hd0ak8g-qUwUgWjxO09LSTe2c4BMiaw59WvbeYIb_ErkhISXY5UIJgYTFHuIFVHgBudA5lGDGVtWhvJNiM-k4EoSHS5zKtt3bnM050ZAwHXyzbbwnV8m5aacUDpSbC5mghpvvzY1fi1wdu7E0sOx0EAn-rbtrR0va4YS9FtURZklvoxQRT_4cdUyhv4RRY2Ygk4Aapz8eQo8WIrvzXxxohk6itJZWk3vvnmVvRbhz1xgNb_j25Vk2TfWDR9QvjLs62VeoVT1mAbVA8uaBWqa7rErGDPYur87OPOG6uWk_SQq5CIEgPsJKhzpGfdbFKLO-jUj92XAcvyYbuXynn9FqzUcqylbo3ajjf7vIe0OIlZjvbHYaVoXin3n7CuXQKO1Dto5scYfO_0dVBbo50tM_Iec9819X3VJjDNU0s4FPtufSiTqUikzBnIyRxGZZD1S9Zezq1S5EKjb4xhBmqtg4sMg6LTwGAJJAxBQktFiPLWORu6MjHPNMAuURW0-icb4EFFC41znR3FHIoor5AOV7gFniF3V5hs4sbpqoC1DXfW55xUtR661kO5f9KYCJbGTHeM95r96fQ9ziooAdULiKyuUD3Vfy3IVMx9memGuRtinG3ZbNnvhoM-aLc1KgY=w1299-h870-no",
+            "category": "Clothing & Accessories"
+          },
+          {
+            "name": "Jewellery",
+            "description": "Jewellery is another important must-do items in the list of things to do in Kerala. The intricate designs embellished with different precious and semi-precious gems or pearls is simply fascinating. To celebrate the womanhood in you or to gift someone you adore, you can buy these superb pieces of jewellery in gold, depicting the true Malayali style, and the artificial one too, which are as good as the real ones.",
+            "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/jewellery-e1524192715888.jpg",
+            "category": "Jewellery"
+          },
+          {
+            "name": "Cocunut And Coir Items",
+            "description": " Kerala is well known for its abundance of coconuts. This makes it an ideal place to grab some coconut or coir based products such as rugs, wall hangings, pure coconut oil, mats, delicacies made of coconut and other cool stuff made from its husk.",
+            "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/Crafts-e1524192661475.jpg",
+            "category": "Home-Decor"
+          }
+        ],
+        "tourist": [
+          {
+            "name": "Munnar",
+            "info": "The idyllic hill station Munnar - famous for its tea estates, exotic lush greenery and craggy peaks, is located in the Western Ghats, in the state of Kerala. It serves as the commercial centre for some of the world’s largest tea estates. In addition, Munnar has many protected areas which are home to endemic and highly endangered species like the Nilgiri Thar and the Neelakurinji.One of the biggest tea-plantation area of South India, Munnar is one of the most beautiful and popular hill-stations of Kerala. Situated on the banks of three rivers- Madupetti, Nallathanni and Periavaru, Munnar is also blessed with natural view-points apart from the tea-plantations. Munnar is divided into Old Munnar, where the tourist information office is, and Munnar, where the bus station and most guest houses are located. The Eravikulam National Park, Salim Ali Bird Sanctuary and tea plantations are its major attractions.",
+            "images": "https://images.thrillophilia.com/image/upload/s---dSM_iYr--/c_fill,f_auto,fl_strip_profile,g_auto,h_600,q_auto,w_975/v1/images/photos/000/126/889/original/1522671846_Munnar.jpg.jpg?1522671846",
+            "location": "https://www.google.co.in/maps/place/Munnar,+Kerala+685612/@10.0806491,77.0466683,14z/data=!3m1!4b1!4m5!3m4!1s0x3b0799794d099a6d:0x63250e5553c7e0c!8m2!3d10.0889333!4d77.0595248"
+          },
+          {
+            "name": "Alleppey",
+            "info": "Allepey is also popular for its Houseboat cruises that pass through the serene backwaters, where you can catch glimpses of green paddy fields, choir making activities, beautiful avifauna and witness the life of locals in Kerala. Towards the shore lies the Alleppey beach in the Arabian Sea, a beautiful example of the gems you’d find along the Malabar Coast. The appeal of this beach is only amplified by the history attached to it, and a walk down the 137-year old pier is a must. Be sure to catch a traditional snake boat race in the months of August and September and try out some toddy (palm wine) at a local toddy shop for adding a touch of authenticity to your travel experience in Allepey.",
+            "images": "https://miro.medium.com/max/2560/1*MjHGGH7V_SeoC9t2zmC-lA.jpeg",
+            "location": "https://www.google.co.in/maps/place/Alappuzha,+Kerala/data=!4m2!3m1!1s0x3b0884f1aa296b61:0xb84764552c41f85a?sa=X&ved=2ahUKEwj6uuG_nPnlAhXSzDgGHaOWA00Q8gEwJXoECBwQBA"
+          },
+          {
+            "name": "Wayanad",
+            "info": "Wayanad is best known for the wildlife reserves - Wayanad wildlife reserve which is home to an exquisite variety of flora and fauna. Wayanad wildlife reserve is an integral part of the Nilgiri biosphere reserve peacefully located amidst the serene hills of Western Ghats. Wayanad homes a wide variety of wildlife like elephants, leopards, and bears. Wayanad is a perfect weekend idea from the cities of South India. If taking a road trip from Bangalore, you will drive through three national parks: Nagarhole, Bandipur and Mudumalai.",
+            "images": "https://www.wayanad.com/files/slides/3253378071.jpg",
+            "location": "https://www.google.co.in/maps/place/Wayanad,+Kerala/@11.7141243,75.8289888,10z/data=!3m1!4b1!4m5!3m4!1s0x3ba60cf91a9c5f0d:0x71dd4da2e1d3e46f!8m2!3d11.6853575!4d76.1319953"
+          },
+          {
+            "name": "Kochi",
+            "info": "The city is marked by influences of Arabs, Dutch, Phoenicians, Portuguese, Chinese and the British city as well as that of the Indian rule of the Chera Dynasty followed by rule of the Feudal Lords. A gaggle of islands interconnected by ferries, this cosmopolitan town has upmarket stores, art galleries and some of the finest heritage accommodations. In a true vintage-meets-future fashion, pubs, restaurants, shopping hubs and futuristic stores crowd Ernakulum, Jew Town and Fort Kochi while palaces, beaches, temples and heritage sites marking their presence too. Kochi is also an important place to see Kathakali and Kalarippayattu performances and annual Biennale Festival.",
+            "images": "https://www.holidify.com/images/bgImages/KOCHI.jpg",
+            "location": "https://www.google.co.in/maps/place/Kochi,+Kerala/@9.9823428,76.1608472,11z/data=!3m1!4b1!4m5!3m4!1s0x3b080d514abec6bf:0xbd582caa5844192!8m2!3d9.9312328!4d76.2673041"
+          },
+          {
+            "name": "Thekkady",
+            "info": "Home to the country's largest Tiger Reserve- Periyar, Thekkady is a great way to enjoy a jungle vacation.Periyar National Park, being a major attraction, is one place where you can enjoy bamboo rafting in the catchment area of Mullaiperiyar Dam, hiking, and in the midst of the wilderness, shopping! Popular for its good eating joints, you can also enjoy its vast stretches of spice gardens and various adventure sports. You can also enjoy a night trek in the wilderness of Periyar. The early morning ride in the boat within the sanctuary is an extremely awesome experience and you might be able to spot wild elephants, bisons, wild boars, various kinds of birds, etc",
+            "images": "https://static.toiimg.com/photo/56892948/.jpg",
+            "location": "https://www.google.co.in/maps/place/Thekkady,+Kumily,+Kerala/data=!4m2!3m1!1s0x3b06f8812df2a199:0x468af17958c54ae8?sa=X&ved=2ahUKEwiwlMjtnfnlAhVzpOkKHeYdD04Q8gEwJXoECBUQBA"
+          },
+          {
+            "name": "Varkala",
+            "info": "Varkala is a coastal town in the southern part of Kerala known for the unique 15m high 'Northern Cliff' adjacent to the Arabian Sea. It is popular for its hippie culture, shacks on the cliff serving great seafood and playing global music and the samadhi of Kerala's saint Sree Narayana Guru. Varkala is also known for Jardana Swami Temple, also known as Dakshin Kashi.Varkala has some of the best pristine beaches, hills, lakes, forts, lighthouses, natural fisheries and springs - all of this together makes this town a little paradise. ",
+            "images": "https://www.varkkala.com/uploads/slides/2435199045.jpg",
+            "location": "https://www.google.co.in/maps/place/Varkala,+Kerala/data=!4m2!3m1!1s0x3b05ef26d90220fb:0xa3ec40c67d4dd020?sa=X&ved=2ahUKEwiat__AnvnlAhUpzjgGHckOB_wQ8gEwIHoECBYQBA"
+          },
+          {
+            "name": "Poovar",
+            "info": "Poovar is a small rustic town situated 27 kms from Thiruvananthapuram with unspoilt, unexplored golden sand beaches and beautiful backwaters of Kerala.Also known as a fishing village, the tranquil Poovar island lies between the Arabian Sea and the Neyyar River. Hiring a boat, (especially during the sunset)that will take you through the mangrove forest of backwaters is a must-do activity. The boat ride costs around INR 3000- INR 4000. The town has some of the beautiful resorts and hotels that are known for the hospitality they offer.",
+            "images": "https://www.keralatourism.org/images/service-providers/photos/property-3322-Exterior-11040-20180831082544.jpg",
+            "location": "https://www.google.co.in/maps/place/Poovar,+Kerala+695525/@8.3223957,77.0598044,15z/data=!3m1!4b1!4m5!3m4!1s0x3b05a9085a9c7bad:0xae2a78c866e7e46d!8m2!3d8.3177774!4d77.0708759"
+          },
+          {
+            "name": "Kovalam",
+            "info": "Kovalam is an idyllic coastal town located around 13 km from Thiruvananthapuram in Kerala. Famous for its three adjacent crescent-shaped shallow water and low tidal beaches, Kovalam is dotted with resorts and ayurvedic massage centres.Lighthouse beach, Samudra Beach and Hawa beach/Eve's Beach form the highlight of this town. Kovalam essentially means a ‘grove of coconut trees', and the little town is filled with these palms.",
+            "images": "https://www.kovalam.com/files/slides/8838110887.jpg",
+            "location": "https://www.google.co.in/maps/place/Kovalam,+Kerala/data=!4m2!3m1!1s0x3b05a5090a19ec65:0xb67f315bc0b762ac?sa=X&ved=2ahUKEwi284Swn_nlAhXgzTgGHcQ1D_UQ8gEwJHoECBgQBA"
+          },
+          {
+            "name": "Sabarimala",
+            "info": "More than 30 million pilgrims visit the temple in Sabarimala annually, making it the largest in India and second largest in the world, after Hajj Pilgrimage of Mecca in Saudi Arabia. Located inside the Periyar Tiger Reserve, in the Pathanamthitta district of Kerala, Sabarimala is a temple town on the bank of the River Pampa.Named after the mythological character, Sabarimala shelters the famous Ayyapa temple. The temple is also known as Dharma Sashta and is believed to be the son of Shiva and Mohini, the feminine incarnation of Lord Vishnu. ",
+            "images": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/PTI11_16_2019_000158B-770x433.jpeg?eFOiXxMDU61sAiFgEzJPjbOtsTtRQPKo",
+            "location": "https://www.google.co.in/maps/place/Sabarimala,+Kerala/data=!4m2!3m1!1s0x3b065b984dd41c11:0x953037d850a3006e?sa=X&ved=2ahUKEwi1uorbn_nlAhVUzTgGHRcCDFcQ8gEwJ3oECBYQBA"
+          },
+          {
+            "name": "Kumarakom",
+            "info": "Located at a distance of 16km from Kottayam in Kerala and located on the banks of Vembanad Lake, Kerala's largest lake, Kumarakom is a cluster of many small man-made islands reclaimed from the lake.Part of the Kuttanad region, Kumarakom along with Alleppey, has beautiful backwater areas and they collectively form the most important tourist centres of Kerala. Known for paddy fields, fishing, a network of backwaters, delicious local cuisine, traditional Kettuvalloms (rice barges) houseboats and luxury and budget resorts. ",
+            "images": "https://k6u8v6y8.stackpathcdn.com/blog/wp-content/uploads/2013/10/kumarakom-natures.jpg",
+            "location": "https://www.google.co.in/maps/place/Kumarakom,+Kerala/data=!4m2!3m1!1s0x3b0881caaef0a8f7:0xc23075c3529e921?sa=X&ved=2ahUKEwiXmIWboPnlAhVqxzgGHW_sCNsQ8gEwH3oECBwQBA"
+          },
+          {
+            "name": "Kollam",
+            "info": "A treasure trove of natural wonders and historical edifices, Kollam is an enchanting town with backwaters and picturesque landscapes. Located 70kms away from Thiruvananthapuram, Kerala, Kollam is a commercial centre and home to India’s cashew producing industry. Popularly known as Quilon, it is often regarded as the gateway to the backwaters of Kerala.",
+            "images": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/04/Jatayu%E2%80%99s-Earth-Centre-kollam-kb6592.jpg",
+            "location": "https://www.google.co.in/maps/place/Kollam,+Kerala/@8.9040558,76.5250328,12z/data=!3m1!4b1!4m5!3m4!1s0x3b05fc5bdda9c621:0x8bf03195267372f7!8m2!3d8.8932118!4d76.6141396"
+          },
+          {
+            "name": "Trivandrum",
+            "info": "Offering an appealing blend of a strongly rooted heritage and a nostalgic colonial legacy, the city of Trivandrum has an exceptional vibe to it. Despite being the capital of Kerala, the city has, quite astonishingly, managed to keep itself far removed from the ruthless aura that generally surrounds a capital city. Built upon seven hills, this city has long since left the days when it was only used by seafaring explorers behind - today, Trivandrum is a swanky metropolis with a quaint urban charm and plenty of scenic places to visit. Proudly retaining its age-old cultural charm, Trivandrum offers a huge variety of sights including incredible museums, beautifully designed palaces, sacred temples and mesmerizing beaches, making the city one of the best tourist spots in South India.",
+            "images": "https://images.thrillophilia.com/image/upload/s--xqlxdexK--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/037/624/original/trivandrum.jpg.jpg?1458192663",
+            "location": "https://www.google.co.in/maps/place/Thiruvananthapuram,+Kerala/data=!4m2!3m1!1s0x3b05bbb805bbcd47:0x15439fab5c5c81cb?sa=X&ved=2ahUKEwjHvvn_oPnlAhVV4jgGHRluCM4Q8gEwFnoECB0QBA"
+          }
+        ]
+      },
+
+      {
         "id": "4",
         "name": "Kerala",
         "capital": "Thiruvananthapuram,",
