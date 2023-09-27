@@ -1,0 +1,229 @@
+{
+    "loc":[
+      {
+          "state":"Andhra Pradesh",
+          "lat":"15.912900" ,
+          "long":"79.739990"
+      },
+      {
+         "state":"Arunachal Pradesh",
+         "lat":"28.217999" ,
+         "long":"94.727753"
+      },
+      {
+          "state":"Assam",
+          "lat":"26.200603" ,
+          "long":"92.937576"
+      },
+      {
+          "state":"Bihar",
+          "lat":"25.096073" ,
+          "long":"85.313118"
+      },
+      {
+          "state":"Chattisgarh",
+          "lat":"21.278658" ,
+          "long":"81.866142"
+      },
+      {
+          "state":"Goa",
+          "lat":"15.299326" ,
+          "long":"74.123993"
+      },
+      {
+          "state":"Gujarat",
+          "lat":"22.258652" ,
+          "long":"71.192383"
+      },
+      {
+          "state":"Haryana",
+          "lat":"29.058777" ,
+          "long":"76.085602"
+      },
+      {
+          "state":"Himachal Pradesh",
+          "lat":"31.104830" ,
+          "long":"77.173393"
+      },
+      {
+          "state":"Jharkhand",
+          "lat":"23.610182" ,
+          "long":"85.279938"
+      },
+      {
+          "state":"Karnataka",
+          "lat":"15.317277" ,
+          "long":"75.713890"
+      },
+      {
+          "state":"Kerala",
+          "lat":"10.850516" ,
+          "long":"76.271080"
+      },
+      {
+          "state":"Madhya Pradesh",
+          "lat":"22.973423" ,
+          "long":"78.656891"
+      },
+      {
+          "state":"Maharashtra",
+          "lat":"19.751480" ,
+          "long":"75.713890"
+      },
+      {
+          "state":"Manipur",
+          "lat":"24.663717" ,
+          "long":"93.906265"
+      },
+      {
+          "state":"Meghalaya",
+          "lat":"25.572491" ,
+          "long":"91.310760"
+      },
+      {
+          "state":"Mizoram",
+          "lat":"23.164543" ,
+          "long":"92.937576"
+      },
+      {
+          "state":"Nagaland",
+          "lat":"26.117500" ,
+          "long":"94.288300"
+      },
+      {
+          "state":"Orissa",
+          "lat":"20.188650" ,
+          "long":"84.440849"
+      },
+      {
+          "state":"Punjab",
+          "lat":"31.147129",
+          "long":"75.341217"
+      },
+      {
+          "state":"Rajasthan",
+          "lat":"27.023804",
+          "long":"74.217934"
+      },
+      {
+          "state":"Sikkim",
+          "lat":"27.532972",
+          "long":"88.512215"
+      },
+      {
+          "state":"Tamil Nadu",
+          "lat":"11.127123",
+          "long":"78.656891"
+      },
+      {
+          "state":"Telangana",
+          "lat":"18.112436",
+          "long":"79.019302"
+      },
+      {
+          "state":"Tripura",
+          "lat":"23.940847",
+          "long":"91.988152"
+      },
+      {
+          "state":"Uttar Pradesh",
+          "lat":"26.846708",
+          "long":"80.946159"
+      },
+      {
+          "state":"Uttarakhand",
+          "lat":"29.379910",
+          "long":"79.477386"
+      },
+      {
+          "state":"West Bengal",
+          "lat":"22.986757",
+          "long":"87.854973"
+      }
+  ],
+    "state": [
+        {
+            "id": "1",
+            "name": "Kerala",
+            "capital": "Thiruvananthapuram,",
+            "about": "Kerala - home to the languid backwaters, long coastlines, sprawling tea gardens, and colourful dance forms, is also famously known as 'God?s Own Country'. Located on the Malabar coast of Southern India, it is a tiny sliver of paradise that is also one of the best tropical tourist destinations one can look for. Whether you want to bask in the sun and sand of the palm tree-lined Kovalam beach or want to take a hike to Munnar hill station, or even if you're going to walk down the bustling streets of Kochi, Kerala has everything on offer to take your pick from!The land of literate and simple citizens, Kerala amuses you with its spectacular dance forms, music and handicrafts. Considered to be one among the ten paradises of the world, Kerala is known for long palm tree beaches, beautiful rivers, pious inland water bodies and a calm, green atmosphere.",
+            "climate": "The coastal state of Keralalying on the Southwestern tip of India has commonly been called the tropical paradise of India. Bounded by Arabian Sea at one side and the Western Ghats on the other, the beautiful land with stunning beauty has an equable and tropical climate offering a pleasing atmosphere throughout the entire year. This coastal state has hot and humid climate during April-May and pleasant, cold climate in December-January. Summer extends from the month of April to June when the temperature reaches to a maximum of 33 degrees centigrade. Summer is followed by South West Monsoon that starts pouring in the month of June and continues till September. With the arrival of winter there is certain drop in the temperature and you can feel a slight chill due to the cold wind. Winter in Kerala lasts from from November to January or February.",
+            "history": "According to the Tamil classic Purananuru, the Chera king Senkuttuvan conquered the lands between Kanyakumari and the Himalayas.[25] Lacking worthy enemies, he besieged the sea by throwing his spear into it.[25][26] According to the 17th century Malayalam work Keralolpathi, the lands of Kerala were recovered from the sea by the axe-wielding warrior sage Parasurama, the sixth avatar of Vishnu (hence, Kerala is also called Parasurama Kshetram 'The Land of Parasurama'[27]). Parasurama threw his axe across the sea, and the water receded as far as it reached. According to legend, this new area of land extended from Gokarna to Kanyakumari.[28] The land which rose from sea was filled with salt and unsuitable for habitation; so Parasurama invoked the Snake King Vasuki, who spat holy poison and converted the soil into fertile lush green land. Out of respect, Vasuki and all snakes were appointed as protectors and guardians of the land.",
+            "time": "The Best time to visit Kerala is Winter Season between September and March when the Kerala has comfortable climate and pleasant weather with less humidity in all the tourist places. People who are looking for ayurvedic treatments prefer Monsoon season from June to August",
+            "food": "Kerala cuisine is a combination of vegetables, meats and seafood flavoured with a variety of spices. One can notice the dominance of rice, coconut, seafood and variety of non-vegetarian dishes and the lavish use of spices like Pepper, Cardamom, Cloves, Ginger and chillies that add to the taste and flavour of Kerala's traditional food.With the Romans, Greeks, Dutch, Portuguese and many more invaders making their way to the ports of Kerela, it's no surprise that Kerala's food is so diverse and distinct from the rest of the country. There are differences seen in the taste and styles of north and south Kerala- the menu ranges from lip-smacking Mappila biryani, Sadya and brilliant non-vegetarian dishes, you are sure to find something new every day! Kerala is a paradise for seafood lovers; from an array of prawns, lobsters, rockfish and squid among the others, the place won't disappoint you. The Sadya is a substantial feast served on a banana leaf and consists of 24-28 dishes in a single meal. Onam Sadyas are something you should try if you're in Kerala. Other favourite dishes include Avial, Kozhikodan Halwa, Appam-stew combo, Kappa, Puttu-Meen curry and Paal Payasam. ",
+            "img": [
+              "https://dmgupcwbwy0wl.cloudfront.net/system/images/000/246/174/b6e6fbfe0a70425bfa209af67b1a1ac6/x1000gt/shutterstock_1154918653.jpg?1552906145",
+              "https://invest-india-revamp-static-files.s3.ap-south-1.amazonaws.com/s3fs-public/2018-07/Kerala_2.png",
+              "https://www.bookitforgetit.com/wp-content/uploads/2016/10/Kerala-is-a-state-in-the-southwest-region-of-India.jpg",
+              "https://img.veenaworld.com/group-tours/india/kerala/klhl-i/klhl-i-bnn-1.jpg",
+              "https://i2.wp.com/www.abtravelworld.com/wp-content/uploads/2019/04/Kerala-beach.jpg?fit=980%2C500&ssl=1",
+              "https://www.myjewishlearning.com/wp-content/uploads/2010/07/Kerala_Backwaters.jpeg"
+            ],
+            "products": [
+              {
+                "name": "Coffee",
+                "description": "It is no wonder that 10 million tonnes of coffee are consumed every year, such as the magic of this humble cup of beverage. If you too belong to the coffee-loving brigade, your Kerala shopping expedition can never really begin for you without getting your hands on an aromatic bag of locally grown Kaapi.  The delicious Malabar Monsoon Coffee available here is also a fantastic option to choose. Rich in flavour, aroma and colour as well, this coffee beans powder not only makes for a fantastic item to buy in Kerala not only for yourself but also as a souvenir or gift for your friends and family",
+                "image": "https://blog.thomascook.in/wp-content/uploads/2018/04/South-Indian-Coffee-e1524192277128.jpg",
+                "category": "Grocery"
+              },
+              {
+                "name": "",
+                "description": "",
+                "image": "",
+                "category": ""
+
+              }
+            ],
+            "tourist": [
+              {
+                "name": "Munnar",
+                "info": "The idyllic hill station Munnar - famous for its tea estates, exotic lush greenery and craggy peaks, is located in the Western Ghats, in the state of Kerala. It serves as the commercial centre for some of the world’s largest tea estates. In addition, Munnar has many protected areas which are home to endemic and highly endangered species like the Nilgiri Thar and the Neelakurinji.One of the biggest tea-plantation area of South India, Munnar is one of the most beautiful and popular hill-stations of Kerala. Situated on the banks of three rivers- Madupetti, Nallathanni and Periavaru, Munnar is also blessed with natural view-points apart from the tea-plantations. Munnar is divided into Old Munnar, where the tourist information office is, and Munnar, where the bus station and most guest houses are located. The Eravikulam National Park, Salim Ali Bird Sanctuary and tea plantations are its major attractions.",
+                "images": "https://images.thrillophilia.com/image/upload/s---dSM_iYr--/c_fill,f_auto,fl_strip_profile,g_auto,h_600,q_auto,w_975/v1/images/photos/000/126/889/original/1522671846_Munnar.jpg.jpg?1522671846",
+                "location": "https://www.google.co.in/maps/place/Munnar,+Kerala+685612/@10.0806491,77.0466683,14z/data=!3m1!4b1!4m5!3m4!1s0x3b0799794d099a6d:0x63250e5553c7e0c!8m2!3d10.0889333!4d77.0595248"
+              },
+              {
+                "name": "",
+                "info": "",
+                "images": "",
+                "location": ""
+              }
+            ],
+            "heritages" : [
+              {
+                "name" : "",
+                "location" : "",
+                "openingTime" : "",
+                "closingTime" : "",
+                "ticket" : "",
+                "ticketPrice" : 0,
+                "images" : []
+
+              }
+            ],
+            "culturalEvents" : [
+                {
+                    "name" : "",
+                    "location" : "",
+                    "address" : "",
+                    "openingTime" : "",
+                    "closingTime" : "",
+                    "ticket" : "required",
+                    "price" : 0 ,
+                    "organiserInfo" : [
+                    ]
+
+                  }
+            ],
+
+            "festivals" : [
+                {
+                    "name" : "",
+                    "date" : "",
+                    "images" : []
+
+                  }
+
+            ]
+          }
+    ]
+  }
